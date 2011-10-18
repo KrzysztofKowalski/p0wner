@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="program.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="program"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="5" Y="42"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MainForm"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="main"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="29"/>
+        <CursorPos X="13" Y="22"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="common.pas"/>
+        <UnitName Value="common"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1073"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="14"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="RegExpr.pas"/>
+        <UnitName Value="RegExpr"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="71"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="14"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="main.lfm"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit4>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="20" HistoryIndex="19">
+      <Position1>
+        <Filename Value="program.lpr"/>
+        <Caret Line="43" Column="5" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="program.lpr"/>
+        <Caret Line="45" Column="1" TopLine="1"/>
+      </Position2>
+      <Position3>
+        <Filename Value="program.lpr"/>
+        <Caret Line="43" Column="1" TopLine="1"/>
+      </Position3>
+      <Position4>
+        <Filename Value="program.lpr"/>
+        <Caret Line="44" Column="110" TopLine="1"/>
+      </Position4>
+      <Position5>
+        <Filename Value="program.lpr"/>
+        <Caret Line="43" Column="1" TopLine="1"/>
+      </Position5>
+      <Position6>
+        <Filename Value="program.lpr"/>
+        <Caret Line="44" Column="53" TopLine="1"/>
+      </Position6>
+      <Position7>
+        <Filename Value="program.lpr"/>
+        <Caret Line="43" Column="1" TopLine="1"/>
+      </Position7>
+      <Position8>
+        <Filename Value="program.lpr"/>
+        <Caret Line="35" Column="8" TopLine="1"/>
+      </Position8>
+      <Position9>
+        <Filename Value="program.lpr"/>
+        <Caret Line="43" Column="1" TopLine="1"/>
+      </Position9>
+      <Position10>
+        <Filename Value="main.pas"/>
+        <Caret Line="1101" Column="37" TopLine="1088"/>
+      </Position10>
+      <Position11>
+        <Filename Value="program.lpr"/>
+        <Caret Line="12" Column="17" TopLine="1"/>
+      </Position11>
+      <Position12>
+        <Filename Value="program.lpr"/>
+        <Caret Line="43" Column="1" TopLine="1"/>
+      </Position12>
+      <Position13>
+        <Filename Value="program.lpr"/>
+        <Caret Line="37" Column="16" TopLine="1"/>
+      </Position13>
+      <Position14>
+        <Filename Value="program.lpr"/>
+        <Caret Line="44" Column="10" TopLine="1"/>
+      </Position14>
+      <Position15>
+        <Filename Value="program.lpr"/>
+        <Caret Line="33" Column="1" TopLine="1"/>
+      </Position15>
+      <Position16>
+        <Filename Value="program.lpr"/>
+        <Caret Line="43" Column="1" TopLine="1"/>
+      </Position16>
+      <Position17>
+        <Filename Value="program.lpr"/>
+        <Caret Line="45" Column="4" TopLine="1"/>
+      </Position17>
+      <Position18>
+        <Filename Value="program.lpr"/>
+        <Caret Line="43" Column="1" TopLine="1"/>
+      </Position18>
+      <Position19>
+        <Filename Value="program.lpr"/>
+        <Caret Line="15" Column="25" TopLine="1"/>
+      </Position19>
+      <Position20>
+        <Filename Value="program.lpr"/>
+        <Caret Line="45" Column="1" TopLine="1"/>
+      </Position20>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

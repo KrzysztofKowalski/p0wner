@@ -20,9 +20,9 @@ object MainForm: TMainForm
     Height = 609
     Top = 0
     Width = 904
-    ActivePage = OutputTabSheet
+    ActivePage = FieldsTabSheet
     Align = alClient
-    TabIndex = 1
+    TabIndex = 0
     TabOrder = 0
     OnChange = MainPageControlChange
     object FieldsTabSheet: TTabSheet
@@ -1497,16 +1497,16 @@ object MainForm: TMainForm
     object OutputTabSheet: TTabSheet
       Caption = 'Output'
       ClientHeight = 581
-      ClientWidth = 896
+      ClientWidth = 1016
       object SpacerPanel1: TPanel
         Left = 0
         Height = 581
         Top = 0
-        Width = 896
+        Width = 1016
         Align = alClient
         BevelOuter = bvNone
         ClientHeight = 581
-        ClientWidth = 896
+        ClientWidth = 1016
         TabOrder = 0
         object OutputNumLabel: TLabel
           Left = 454
@@ -1555,17 +1555,17 @@ object MainForm: TMainForm
           Left = 14
           Height = 399
           Top = 159
-          Width = 868
+          Width = 988
           Anchors = [akTop, akLeft, akRight, akBottom]
           Caption = 'Output Options'
           ClientHeight = 381
-          ClientWidth = 864
+          ClientWidth = 984
           TabOrder = 1
           object OutputOptionsNotebook: TNotebook
             Left = 0
             Height = 381
             Top = 0
-            Width = 864
+            Width = 984
             Align = alClient
             PageIndex = 3
             ShowTabs = False
@@ -1722,7 +1722,7 @@ object MainForm: TMainForm
             end
             object OutputMySQLPage: TPage
               Caption = 'OutputMySQLPage'
-              ClientWidth = 856
+              ClientWidth = 976
               ClientHeight = 373
               object OutputSqlRecordsPerInsertLabel1: TLabel
                 Left = 12
@@ -1927,7 +1927,7 @@ object MainForm: TMainForm
           Left = 454
           Height = 23
           Top = 48
-          Width = 398
+          Width = 518
           Anchors = [akTop, akLeft, akRight]
           MaxValue = 1000000000
           MinValue = 2
@@ -1938,13 +1938,13 @@ object MainForm: TMainForm
           Left = 14
           Height = 23
           Top = 110
-          Width = 780
+          Width = 900
           Anchors = [akTop, akLeft, akRight]
           TabOrder = 3
           Text = '/tmp/datagen.txt'
         end
         object OutputFileChooseButton: TBitBtn
-          Left = 776
+          Left = 896
           Height = 35
           Top = 107
           Width = 54

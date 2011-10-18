@@ -947,7 +947,7 @@ begin
       sqlBeginLine := sqlBeginLine + ' (';
       for j := 0 to FieldListBox.Items.Count-1 do begin
         theField := TField(FieldListBox.Items.Objects[j]);
-        sqlBeginLine := sqlBeginLine + '`' + theField.Name + '`' ;
+        sqlBeginLine := sqlBeginLine + '`' +theField.Name + '`' ;
         if (j < FieldListBox.Items.Count-1) then sqlBeginLine := sqlBeginLine + ',';
       end;
       sqlBeginLine := sqlBeginLine + ')';

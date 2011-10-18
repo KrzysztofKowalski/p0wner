@@ -35,7 +35,7 @@ uses
 
 begin
   {$I program.lrs}
-  Application.Title:='p0wner';
+  Application.Title := 'Spawner Data Generator';
   Application.Initialize;
   Application.CreateForm(TMainForm, MainForm);
   Application.Run;
